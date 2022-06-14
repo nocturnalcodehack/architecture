@@ -11,3 +11,5 @@ to beta to production. Make these shared resources available to developers outsi
 that gravitational pull.
 3. remove old code paths once new services are up and running. Use a tool to understand who’s calling this service and
 have a plan to move 100% of the traffic over to the new service
+
+## ...so you don’t get stuck supporting two sets of code forever
